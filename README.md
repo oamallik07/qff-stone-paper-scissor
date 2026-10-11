@@ -18,7 +18,7 @@
 
 ## Project Metadata
 
-* **Project Title:** `[Quantum Rock Paper Scissor]`
+* **Project Title:** `Quantum Rock Paper Scissor`
 * **Team Name:** `[Obaitullah Ali Mallik]`
 * **Chosen Track:** `[Track 1: Quantum Games & Interactive Puzzles]`
 * **Video Presentation Link:** `[Insert YouTube Unlisted / Google Drive / Loom URL here]`
