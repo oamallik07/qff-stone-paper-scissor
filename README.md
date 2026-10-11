@@ -121,7 +121,8 @@ qc.measure([0, 1], [0, 1])
 
 * **Key Screenshots / Terminal Output:**  
   ![Project Screenshot](https://github.com/oamallik07/qff-stone-paper-scissor/blob/main/Screenshot%20(1).png?raw=true)
-  
+  ![Project Screenshot](https://github.com/oamallik07/qff-stone-paper-scissor/blob/main/Screenshot%20(2).png?raw=true)
+
 
 ---
 
