@@ -19,16 +19,16 @@
 ## Project Metadata
 
 * **Project Title:** `Quantum Rock Paper Scissor`
-* **Team Name:** `[Obaitullah Ali Mallik]`
-* **Chosen Track:** `[Track 1: Quantum Games & Interactive Puzzles]`
-* **Video Presentation Link:** `[Insert YouTube Unlisted / Google Drive / Loom URL here]`
+* **Team Name:** `Obaitullah Ali Mallik`
+* **Chosen Track:** `Track 1: Quantum Games & Interactive Puzzles`
+* **Video Presentation Link:** `https://youtu.be/HxdN00sFJ4Y`
   *(⚠️ Crucial: Ensure link access is set to "Anyone with the link can view" on Google Drive or "Unlisted / Public" on YouTube. Locked/inaccessible links cannot be scored!)*
-* **Live Demo Timestamp in Video:** `[MM:SS]` *(e.g., "Demo starts at 03:45")*
+* **Live Demo Timestamp in Video:** `00:06` *(e.g., "Demo starts at 03:45")*
 
 ### Team Members (Max 4 members)
 | Name | Email | GitHub Username |
 | :--- | :--- | :--- |
-| `[Obaitullah Ali Mallik]` | `[o.a.mallik07@gmail.com]` | `[oamallik07]` |
+| `Obaitullah Ali Mallik` | `o.a.mallik07@gmail.com` | `oamallik07` |
 | `[Member 2 Name]` | `[Email]` | `[@username]` |
 | `[Member 3 Name]` | `[Email]` | `[@username]` |
 | `[Member 4 Name]` | `[Email]` | `[@username]` |
