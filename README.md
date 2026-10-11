@@ -120,7 +120,7 @@ qc.measure([0, 1], [0, 1])
    3. get_winner() applies the rules and the score is updated.`
 
 * **Key Screenshots / Terminal Output:**  
-  `<img width="1920" height="1080" alt="ezgif-17e99afd2927904d" src="https://github.com/user-attachments/assets/d00b44f3-de9f-49a4-9390-dd7e113682c5" />`
+  `![Demo](https://github.com/user-attachments/assets/d00b44f3-de9f-49a4-9390-dd7e113682c5)`
 
 ---
 
