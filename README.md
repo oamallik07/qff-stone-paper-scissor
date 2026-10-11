@@ -120,7 +120,8 @@ qc.measure([0, 1], [0, 1])
    3. get_winner() applies the rules and the score is updated.`
 
 * **Key Screenshots / Terminal Output:**  
-  `![Demo](https://github.com/user-attachments/assets/d00b44f3-de9f-49a4-9390-dd7e113682c5)`
+  `![Project Screenshot](https://github.com/oamallik07/qff-stone-paper-scissor/blob/main/Screenshot%20(1).png?raw=true)`
+  
 
 ---
 
